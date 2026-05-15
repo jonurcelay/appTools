@@ -1,0 +1,1 @@
+This repository contains some scripts that make my life easier when deploying apps to the App Store
